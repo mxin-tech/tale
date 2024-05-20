@@ -1,8 +1,9 @@
 package com.tale;
 
 import com.blade.Blade;
-import com.blade.security.web.csrf.CsrfMiddleware;
+//import com.blade.security.web.csrf.CsrfMiddleware;
 import com.tale.bootstrap.TaleLoader;
+import com.tale.scrf.CsrfMiddleware;
 
 /**
  * Tale启动类
